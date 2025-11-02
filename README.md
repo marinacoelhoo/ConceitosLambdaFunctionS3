@@ -61,7 +61,7 @@ A automação com **Lambda + S3** representa um dos pilares da **arquitetura ser
 
 ## 🏗️ **Exemplo de Arquitetura**
 Abaixo, um diagrama simplificado da arquitetura de automação com AWS Lambda e Amazon S3:
-
+<img src="/Images/Diagrama Lambda Function.png">
 
 📘 **Descrição do fluxo:**
 1. O usuário faz upload de um arquivo no bucket S3.  
